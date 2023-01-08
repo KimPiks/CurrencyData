@@ -1,10 +1,13 @@
 # CurrencyData
 Excel macro for downloading current currency prices from the Internet
 
-# Usage
+## Usage
 ```=CurrencyRate(CURRENCY_2, CURRENCY_2)```
 
-Example:<br>
+### Example:<br>
 ```=CurrencyRate("USD", "PLN")```
 
 ![Example usage](https://raw.githubusercontent.com/KimPiks/CurrencyData/main/Example.png)
+
+## Note:<br>
+The script is based on the finance.yahoo.com API
